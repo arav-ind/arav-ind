@@ -5,4 +5,4 @@
 
 - 🌱 Developing with **.ts**
 
-- 💻 Micro-Frontends
+- 💻 Implementing Micro-Frontends
