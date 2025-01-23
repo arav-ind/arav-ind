@@ -3,6 +3,6 @@
 
 - 🛠️ fulltime: **Developing Altair AI Cloud**
 
-- 🌱 !fulltime: **Building Random Stuffs**
+- 🌱 !fulltime: **Building Stuffs** (Mostly that don't work... yet;-)
 
 - 💻 Currently with **.ts** and **.go**
