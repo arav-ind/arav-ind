@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aravind</h1>
 <h3 align="center">Software Developer💻</h3>
 
-- 🛠️ fulltime: **Developing Altair AI Cloud**
+- 🛠️ Currently: Engineering at Altair AI Cloud.
 
-- 🌱 !fulltime: **Building Stuffs** (Mostly that don't work... yet;-)
+- 🌱 On the side: Building Stuffs (Mostly that don't work... yet;-)
 
-- 💻 Currently with **.ts** and **.go**
+- 💻 Stack: TypeScript + Go is the current jam.
